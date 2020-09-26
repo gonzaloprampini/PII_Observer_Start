@@ -3,6 +3,7 @@ using System;
 namespace Observer
 {
     public struct Temperature
+    //Informacion que se le pasa
     {
         private decimal degrees;
 
